@@ -12,6 +12,7 @@ Demo version will be ready and released by May 3 (Before CZ-5 Y8 / Chang'E 6 Mis
 
 ## Planned Function:
 - $T_0$ countdown based on given $T_0$;
+- (Especially for Chinese rocket launch live) Ignition countdown based on given $T_0$ and predictive ignition sequence data;
 - Flight events (e.g. *Fairing Jettison*) countdown based on predictive flight sequence;
 - Flight phase display (e.g. *Orbit Insertion*) based on predictive flight sequence;
 - Mission briefing display (with background image).
