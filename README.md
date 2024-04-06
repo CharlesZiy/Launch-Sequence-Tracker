@@ -1,4 +1,6 @@
-# Brief Introduction
+# Launch Sequence Tracker
+
+## Brief Introduction
 
 The program is a Python-based timer to track the events of a rocket during launch.
 
@@ -8,7 +10,7 @@ Major development work will take place on and after April 26.
 
 Demo version will be ready and released by May 3 (Before CZ-5 Y8 / Chang'E 6 Mission).
 
-# Current Develop Progress:
+## Current Develop Progress:
 |Issue / Function|Status|
 |:-:|:-:|
 |Data Collection|Partly Done|
@@ -17,7 +19,7 @@ Demo version will be ready and released by May 3 (Before CZ-5 Y8 / Chang'E 6 Mis
 |Interface Beautification|Only Idea|
 |Multi-Language Support|Only Idea|
 
-# Reference
-## Sequence Data Source:
+## Reference
+### Sequence Data Source:
 - https://sat.huijiwiki.com/
 - [ASPT - Aerospace Science Popularize Team](https://space.bilibili.com/442706857)
