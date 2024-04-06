@@ -19,7 +19,9 @@ Demo version will be ready and released by May 3 (Before CZ-5 Y8 / Chang'E 6 Mis
 |Interface Beautification|Only Idea|
 |Multi-Language Support|Only Idea|
 
+The recent demo versions will be **mainly** in Chinese, and English adaptation **will be considered** later.
+
 ## Reference
 ### Sequence Data Source:
 - https://sat.huijiwiki.com/
-- [ASPT - Aerospace Science Popularize Team](https://space.bilibili.com/442706857)
+- [ASPT - Aerospace Science Popularization Team](https://space.bilibili.com/442706857)
