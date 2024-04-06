@@ -10,6 +10,12 @@ Major development work will take place on and after April 26.
 
 Demo version will be ready and released by May 3 (Before CZ-5 Y8 / Chang'E 6 Mission).
 
+## Planned Function:
+- $T_0$ countdown based on given $T_0$;
+- Flight events (e.g. *Fairing Jettison*) countdown based on predictive flight sequence;
+- Flight phase display (e.g. *Orbit Insertion*) based on predictive flight sequence;
+- Mission briefing display (with background image).
+
 ## Current Develop Progress:
 |Issue / Function|Status|
 |:-:|:-:|
