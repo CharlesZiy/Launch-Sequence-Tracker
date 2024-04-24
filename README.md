@@ -1,5 +1,11 @@
 # Launch Sequence Tracker
 
+## NOTICE
+
+The current version (especially the `main.py`) is a NO GUI version, ONLY INCLUDE CZ-2F/G FLIGHT SEQUENCE.
+
+IT IS NOT A FORMAL VERSION, IT IS NOT EVEN A DEMO.
+
 ## Brief Introduction
 
 The program is a Python-based timer to track the events of a rocket during launch.
