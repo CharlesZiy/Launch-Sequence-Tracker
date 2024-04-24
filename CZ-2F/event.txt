@@ -1,0 +1,24 @@
+-40
+摆杆摆开
+-30
+摆杆摆开到位
+-3
+点火 / Ignition
+0
+起飞 / Liftoff
+12
+程序转弯 / Pitching Downrange
+120
+逃逸塔分离 / Escape Tower Sep
+154
+助推器分离 / Booster Sep
+159
+一二级分离 / MECO and Staging
+212
+抛整流罩 / Fairing Sep
+463
+二级主机关机 / Stage 2 MECO
+582
+二级游机关机 / SECO
+585
+船箭分离 / Shenzhou Deploy
